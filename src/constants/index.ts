@@ -19,6 +19,9 @@ import {
   carrent,
   MultipleProject,
   threejs,
+  python,
+  tensorflow,
+  opencv,
 } from "../assets";
 
 export const navLinks = [
@@ -56,6 +59,18 @@ const services = [
 ];
 
 const technologies = [
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "TensorFlow",
+    icon: tensorflow,
+  },
+  {
+    name: "OpenCV",
+    icon: opencv,
+  },
   {
     name: "HTML 5",
     icon: html,

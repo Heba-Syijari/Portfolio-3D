@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
+import tensorflow from "./tech/tensorflow.png";
+import opencv from "./tech/opencv.png";
 
 import innovura from "./company/innovura.png";
 
@@ -48,6 +51,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  python,
+  tensorflow,
+  opencv,
   innovura,
   carrent,
   MultipleProject,
