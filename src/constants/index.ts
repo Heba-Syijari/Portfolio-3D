@@ -170,9 +170,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Community-Portal",
+    name: "Community Portal",
     description:
-      "This application aim to create portal via admin to allow users to share many threads like ideas, opinions and complains or comment and voting on another thread shared by another user.",
+      "This application aim to create portal via admin to allow users to share many threads like ideas, opinions and complains or comment and voting on another thread shared by another user. with company Innovura . at present",
     tags: [
       {
         name: "react",
@@ -188,7 +188,7 @@ const projects = [
       },
       {
         name: "Redux-Toolkit",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "React-Query",
@@ -196,12 +196,13 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    // source_code_link: "https://github.com/",
+    web_link: "https://www.innovura.io/",
   },
   {
     name: "Multi Project Custom field",
     description:
-      "Multi Project Customfield is a custom Jira field that allows you to reference multiple projects within a Jira issue field. This is useful for multi-project initiatives, where users can easily track all projects related to a specific issue.",
+      "Multi Project Customfield is a custom Jira field that allows you to reference multiple projects within a Jira issue field. This is useful for multi-project initiatives, where users can easily track all projects related to a specific issue. with company Innovura",
     tags: [
       {
         name: "react",
@@ -217,7 +218,7 @@ const projects = [
       },
       {
         name: "JIRA",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "Bitbucket",
@@ -225,7 +226,8 @@ const projects = [
       },
     ],
     image: MultipleProject,
-    source_code_link: "https://github.com/",
+    web_link:
+      "https://marketplace.atlassian.com/apps/1221612/multi-project-customfield?hosting=datacenter&tab=overview",
   },
 ];
 
